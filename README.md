@@ -1,6 +1,7 @@
 # Home-Sales-Big-Data-with-PySpark-SQL
 
-Through utilizing PySpark and Spark SQL on Google Colab, this project serves to determine key metrics about home sales data. Then, Spark is utilized to create temporary views, partition the data, cache and uncache a temporary table. Some of the data key metric questions that were answered:
+Through utilizing PySpark and Spark SQL on Google Colab, this project serves to determine key metrics about home sales data. Then, Spark is utilized to create temporary views, partition the data, cache and uncache a temporary table. <br></br>
+Some of the data key metric questions that were answered:
 
 - Average price for a four-bedroom house sold for each year;
 - Average price of a home for each year it was built that has three bedrooms and three bathrooms;
